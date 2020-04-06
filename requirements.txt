@@ -1,0 +1,11 @@
+gino==0.8.6
+aiohttp==3.6.2
+python-dotenv==0.12.0
+pytest==5.4.1
+pytest-aiohttp==0.3.0
+flake8==3.7.9
+psycopg2-binary==2.8.4
+sqlalchemy-utils==0.36.3
+marshmallow==3.5.1
+marshmallow-sqlalchemy==0.22.3
+freezegun==0.3.15
